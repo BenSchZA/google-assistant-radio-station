@@ -1,0 +1,33 @@
+{
+  "id": "02057cf5-219d-4d4f-b905-caaecdfdc9ce",
+  "parentId": "d9599835-e578-498f-b980-0f25294a5957",
+  "rootParentId": "d9599835-e578-498f-b980-0f25294a5957",
+  "name": "finish-recipe - another",
+  "auto": true,
+  "contexts": [
+    "finish-recipe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "finish-recipe.another",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great! What would you like to cook?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523274246,
+  "fallbackIntent": false,
+  "events": []
+}

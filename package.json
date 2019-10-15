@@ -1,0 +1,26 @@
+{
+  "name": "ewn-news-fulfillment",
+  "description": "Node.js API for serving Google Assistant fulfillment requests",
+  "author": "Benjamin Scholtz <ben.scholtz@roostermornings.com>",
+  "main": "server.js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "request": "^2.85.0",
+    "cheerio": "^1.0.0-rc.2",
+    "delay": "^2.0.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "http-errors": "^1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "actions-on-google": "^1.5.0",
+    "dialogflow": "^0.1.0",
+    "dialogflow-fulfillment": "0.3.0-beta.1"
+  }
+}

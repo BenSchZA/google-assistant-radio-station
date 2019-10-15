@@ -1,0 +1,29 @@
+{
+  "id": "fa601a7f-440e-4294-ae30-06e9b55c0233",
+  "name": "deliver-news",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.news",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522764876,
+  "fallbackIntent": false,
+  "events": []
+}

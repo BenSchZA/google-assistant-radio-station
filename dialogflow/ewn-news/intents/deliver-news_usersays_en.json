@@ -1,0 +1,137 @@
+[
+  {
+    "id": "4720665c-0cad-4721-be34-14835d14a608",
+    "data": [
+      {
+        "text": "Play ",
+        "userDefined": false
+      },
+      {
+        "text": "Eye Witness News",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522764876
+  },
+  {
+    "id": "1c86924c-00be-4685-96a7-778e17c52e2e",
+    "data": [
+      {
+        "text": "What\u0027s happening in ",
+        "userDefined": false
+      },
+      {
+        "text": "South Africa",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522764876
+  },
+  {
+    "id": "7bae8bec-ab0f-4dfe-8f6f-c4e885e6de19",
+    "data": [
+      {
+        "text": "What\u0027s the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "EWN News",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522764876
+  },
+  {
+    "id": "6dcd11db-63b0-4d80-ad02-8787f005b4b4",
+    "data": [
+      {
+        "text": "Play ",
+        "userDefined": false
+      },
+      {
+        "text": "EWN News",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522764876
+  },
+  {
+    "id": "a1d8ea9b-e277-4275-90fb-81f015c3c340",
+    "data": [
+      {
+        "text": "What\u0027s happening in ",
+        "userDefined": false
+      },
+      {
+        "text": "South African news",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522764876
+  },
+  {
+    "id": "98c04606-b8c4-4bdb-9f15-0f01e929ee5e",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "South African news",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522764876
+  }
+]

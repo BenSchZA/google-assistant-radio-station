@@ -1,0 +1,41 @@
+{
+  "id": "fee79490-272c-4edb-883a-18d1a36e06a8",
+  "name": "meal-complete",
+  "auto": true,
+  "contexts": [
+    "meal-category-selection-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "meal-complete",
+      "affectedContexts": [
+        {
+          "name": "meal-category-selection-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523348902,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "meal-complete"
+    }
+  ]
+}

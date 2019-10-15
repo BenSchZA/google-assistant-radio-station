@@ -1,0 +1,39 @@
+{
+  "id": "d9599835-e578-498f-b980-0f25294a5957",
+  "name": "finish-recipe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "abort-recipe",
+      "affectedContexts": [
+        {
+          "name": "finish-recipe-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like to select another recipe?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524050558,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "finish-recipe"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f31b0612-fd06-4def-bb74-88ed710ee753",
+    "data": [
+      {
+        "text": "play guidelines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523273587
+  },
+  {
+    "id": "b118345c-d09c-4147-b2c7-7196ad4bdf31",
+    "data": [
+      {
+        "text": "show guidelines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523273587
+  },
+  {
+    "id": "1520145d-3a64-4e92-99df-6098157ec28c",
+    "data": [
+      {
+        "text": "guidelines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523273587
+  },
+  {
+    "id": "2cebe36d-33f6-426f-82dd-56bda0210864",
+    "data": [
+      {
+        "text": "continue with guidelines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523273587
+  },
+  {
+    "id": "3bd82d69-008b-4321-816b-1f8633868306",
+    "data": [
+      {
+        "text": "start guidelines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523273587
+  }
+]

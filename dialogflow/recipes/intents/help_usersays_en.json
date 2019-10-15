@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3af6e3ec-4374-4700-9bbd-238c648caee2",
+    "data": [
+      {
+        "text": "get help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524052828
+  },
+  {
+    "id": "5e361125-32b8-4893-b98d-d69fcdf5b15a",
+    "data": [
+      {
+        "text": "how do i get started",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524052828
+  },
+  {
+    "id": "e3b041cf-bf2b-4182-85f7-a8fe8d3c3b5d",
+    "data": [
+      {
+        "text": "i need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524052828
+  },
+  {
+    "id": "48e1abb7-6517-489a-a9cd-f9565fa0b30d",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524052828
+  },
+  {
+    "id": "faac86e6-4613-4a5f-ae74-fcbdbcf0a0de",
+    "data": [
+      {
+        "text": "how do i start a recipe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524052828
+  },
+  {
+    "id": "12d104ed-dd6a-4c46-8588-a0ec67258f13",
+    "data": [
+      {
+        "text": "what can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524052828
+  },
+  {
+    "id": "30cf8395-3e65-41ef-8c3b-b04e41ff86c5",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524052828
+  }
+]

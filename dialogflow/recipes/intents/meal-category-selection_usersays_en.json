@@ -1,0 +1,140 @@
+[
+  {
+    "id": "c43f88aa-a2a3-46a3-b63e-c4a68562939f",
+    "data": [
+      {
+        "text": "Salad",
+        "alias": "meal-category",
+        "meta": "@meal-category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524047885
+  },
+  {
+    "id": "d3ed6e73-2f04-4da2-9c71-126fe3b4ed54",
+    "data": [
+      {
+        "text": "Let\u0027s cook ",
+        "userDefined": false
+      },
+      {
+        "text": "pork",
+        "alias": "meal-category",
+        "meta": "@meal-category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523546742
+  },
+  {
+    "id": "bd7c691f-dee6-4a26-b455-475f0b447c88",
+    "data": [
+      {
+        "text": "Let\u0027s make a ",
+        "userDefined": false
+      },
+      {
+        "text": "salad",
+        "alias": "meal-category",
+        "meta": "@meal-category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523353203
+  },
+  {
+    "id": "c75cbb76-019c-4bc2-83e3-7ab3de818a16",
+    "data": [
+      {
+        "text": "I\u0027d like to make a ",
+        "userDefined": false
+      },
+      {
+        "text": "salad",
+        "alias": "meal-category",
+        "meta": "@meal-category",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523353203
+  },
+  {
+    "id": "04af1e46-3b24-4dae-b55e-49612852a98e",
+    "data": [
+      {
+        "text": "Let\u0027s make ",
+        "userDefined": false
+      },
+      {
+        "text": "salad",
+        "alias": "meal-category",
+        "meta": "@meal-category",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523353203
+  },
+  {
+    "id": "a2502ce0-baef-453b-bedb-dfe8813b026a",
+    "data": [
+      {
+        "text": "Let\u0027s cook ",
+        "userDefined": false
+      },
+      {
+        "text": "macaroni",
+        "alias": "meal-category",
+        "meta": "@meal-category",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523353203
+  },
+  {
+    "id": "37731edc-ad49-4c15-9335-b092e9e36ed6",
+    "data": [
+      {
+        "text": "I\u0027d like to cook ",
+        "userDefined": false
+      },
+      {
+        "text": "tuna",
+        "alias": "meal-category",
+        "meta": "@meal-category",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523353203
+  }
+]

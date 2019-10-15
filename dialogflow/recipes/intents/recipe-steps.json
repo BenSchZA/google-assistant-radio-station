@@ -1,0 +1,46 @@
+{
+  "id": "e761c55e-aa38-462d-bfd8-19e59f57ebc5",
+  "name": "recipe-steps",
+  "auto": true,
+  "contexts": [
+    "meal-category-selection-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recipe-steps",
+      "affectedContexts": [
+        {
+          "name": "recipe-steps-followup",
+          "parameters": {},
+          "lifespan": 10
+        },
+        {
+          "name": "meal-category-selection-followup",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524160616,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "recipe-steps"
+    }
+  ]
+}

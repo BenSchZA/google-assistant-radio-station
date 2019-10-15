@@ -1,0 +1,41 @@
+{
+  "id": "11e7cdec-345a-4629-ab1c-83c83b7027cd",
+  "name": "help",
+  "auto": true,
+  "contexts": [
+    "meal-category-selection-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "meal-category-selection-followup",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can say \"Let\u0027s make a salad\" or \"Let\u0027s cook pork\". We have two categories at the moment, \"salad\" and \"pork\". During the recipe say \"next\", \"previous\", or \"repeat\" to navigate, or  say \"Guidelines\", \"Ingredients\", or \"Steps\" to skip to that stage. Good luck, Chef!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524222000,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "help"
+    }
+  ]
+}

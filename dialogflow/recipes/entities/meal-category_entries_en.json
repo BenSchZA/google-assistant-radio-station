@@ -1,0 +1,39 @@
+[
+  {
+    "value": "seafood",
+    "synonyms": [
+      "fish",
+      "tuna",
+      "sushi",
+      "salmon",
+      "hake"
+    ]
+  },
+  {
+    "value": "pasta",
+    "synonyms": [
+      "pasta",
+      "macaroni",
+      "lasagne",
+      "spaghetti",
+      "cannelloni",
+      "gnochi"
+    ]
+  },
+  {
+    "value": "salad",
+    "synonyms": [
+      "salad",
+      "coleslaw",
+      "greens"
+    ]
+  },
+  {
+    "value": "pork",
+    "synonyms": [
+      "pork",
+      "bacon",
+      "crackling"
+    ]
+  }
+]

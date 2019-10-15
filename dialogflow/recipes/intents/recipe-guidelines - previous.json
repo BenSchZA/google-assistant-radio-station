@@ -1,0 +1,45 @@
+{
+  "id": "f54561f7-8f3f-4c37-aae9-45cd280b0291",
+  "parentId": "968b2f67-f722-4855-8f6e-28756aed4fa3",
+  "rootParentId": "968b2f67-f722-4855-8f6e-28756aed4fa3",
+  "name": "recipe-guidelines - previous",
+  "auto": true,
+  "contexts": [
+    "recipe-guidelines-followup",
+    "meal-category-selection-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recipe-guidelines.previous",
+      "affectedContexts": [
+        {
+          "name": "recipe-guidelines-followup",
+          "parameters": {},
+          "lifespan": 10
+        },
+        {
+          "name": "meal-category-selection-followup",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524160441,
+  "fallbackIntent": false,
+  "events": []
+}

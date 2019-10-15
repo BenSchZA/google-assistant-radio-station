@@ -1,0 +1,37 @@
+{
+  "id": "0774f177-0338-4431-a2ab-810209b36025",
+  "parentId": "d9599835-e578-498f-b980-0f25294a5957",
+  "rootParentId": "d9599835-e578-498f-b980-0f25294a5957",
+  "name": "finish-recipe - finished",
+  "auto": true,
+  "contexts": [
+    "finish-recipe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "finish-recipe.finished",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "See you next time, Chef!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523274506,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "finish-recipe-finished"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "0d195a1f-8a92-415a-8cc2-f4b1328ab889",
+  "name": "meal-category-selection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "select.meal_category",
+      "affectedContexts": [
+        {
+          "name": "meal-category-selection-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9f6a542e-e7f7-4546-a7a8-8ad9d4fdaf2d",
+          "required": true,
+          "dataType": "@meal-category",
+          "name": "meal-category",
+          "value": "$meal-category",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Mmmm I sense the aroma of a freshly cooked meal coming! What would you like to cook today? We have the options of \"pork\" or \"salad\". Say \"help\" at any stage of the recipe to get help."
+            },
+            {
+              "lang": "en",
+              "value": "What would you like to cook today? For example \"Let\u0027s make a salad\"."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524052900,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "meal-category-selection"
+    }
+  ]
+}

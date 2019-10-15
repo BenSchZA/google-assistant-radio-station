@@ -1,0 +1,33 @@
+{
+  "id": "56d78cf8-673a-4875-b417-84322780c4fa",
+  "parentId": "0d195a1f-8a92-415a-8cc2-f4b1328ab889",
+  "rootParentId": "0d195a1f-8a92-415a-8cc2-f4b1328ab889",
+  "name": "meal-category-selection - yes",
+  "auto": true,
+  "contexts": [
+    "meal-category-selection-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "meal-category-selection.yes",
+      "affectedContexts": [
+        {
+          "name": "meal-category-selection-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523355076,
+  "fallbackIntent": false,
+  "events": []
+}
